@@ -1,0 +1,25 @@
+     Aria: Hope I'm not stepping on any toes skills-wise, mate. Regardless, due to that overlap you're probably the only one here Aria is actually going to have some respect for!
+     Wrenn Wsunn (amused): Oh boy.
+     Narrator (description): As you approach the city of New Albion by land or by sea, you see two buildings before anything else. One is your standard Castle, a massive stone fortress on a cliff giving it a view of both the ocean and the city it protects. The other is a somewhat less massive domed building that seems to be the city's center piece.
+     Narrator (description): You join the throng of adventurers headed to the castle and can't help but notice the strange signs of damage. There's the standard fire remnants of course, but one building looks waterlogged and it's neighbors are untouched. Further on a building's pieces hover in an arcane field and several mages are arguing over how to fix it.
+     Narrator (description): Then there are the weirdly placed statues. Some look terrified, others look surprised, but all are in awkward places. It's clear something weird is going on.
+     Narrator (description): The mass of would be heros, or mercenaries, is herded into the castle's Great Hall.
+     Lord Chamberlain Geoffrey: A middle aged man in a three piece suit and wearing a gilded chain around his neck, takes position at the front of the room.
+     Lord Chamberlain Geoffrey (friendly): *magically amplified* Welcome to New Albion, friends. I am the Lord Chamberlain, which is basically the Chief Steward or Kin-Queen's hand for our foreign guests.
+     Narrator (description): Everyone hears his words in their native tongues.
+     Lorien: A slim-muscular elven man with blond hair kept his focus to Lord Chamberlain and with respect, he bowed to the chief steward with respect.
+     Lorien (kind): Pleased to be at your acquaintance Lord Chamberlain
+     Lord Chamberlain Geoffrey (friendly): @Lorien#112528 Well met, Ser Elf.
+     Lord Chamberlain Geoffrey (friendly): Now Her Majesty has a fondness for the number six, so if your company numbers more than that, I regretfully must ask you to leave. Your travel expenses will be compensated and you have rooms for the night of course, so please enjoy our city. Any companies lower in number, I hope you can make friends.
+     Lord Chamberlain Geoffrey: He checks a scroll.
+     Lord Chamberlain Geoffrey (friendly): Let's begin the interview with the regestered Companies. Morgan's Marauders?
+     Narrator (description): He leads the summoned group, who very hastily drew lots to get down to six, into another room. Several more groups leave and a few other beings start to mingle.
+     Shadow of A Valiant Soul: A large humanoid, bulky under layers of chain mail and gambeson, stands amongst the crowd and surveys for someone to bully into being their plus five.
+
+The figure is tall, towering a half foot or more over most, and holds themself with effortless confidence. Several bags hang upon their back, as well as a small wooden chest, and what seems to be a massive bovid horn that has been crudely sawn off at the base. A pair of hatchets are tied to their hip, though these seem more suited for utility than combat. Strangely, they otherwise appear to unarmed.
+
+Their flat-topped helm bears a human face. The shade falls over the visage and seems pull its lips into a grimace. Its gaze falls upon the elf that spoke.
+     Shadow of A Valiant Soul (pressing): Hey, Elf! Get over here!
+     Lorien: The elf noticed the tall humanoid calling out to him and he made a look displaying he wasn't a fan of the man's ordering tone to him, but without saying anything, he went towards where the man pointed towards
+     Shadow of A Valiant Soul: The figure takes one step closer to the elf as he approachs.
+     Shadow of A Valiant Soul (serious): You spoken for? No? Good. You work with me now.
